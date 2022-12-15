@@ -8,6 +8,7 @@ Aplicativo desenvolvido na linguagem de programação Swift. Utilizando Navigati
     
 <h3> IMAGENS
   <h4> Tela inicial
+  <p>
   <img width="400" alt="Captura de Tela 2022-12-15 às 15 38 34" src="https://user-images.githubusercontent.com/107012585/207942245-516d13fc-dc27-4b65-a0df-23ad3a312554.png">
   <p>
 <h4> Lista de lugares salvos pelo usuário
@@ -17,4 +18,4 @@ Aplicativo desenvolvido na linguagem de programação Swift. Utilizando Navigati
 <p>
 <h4> Mapa para escolha dos lugares
 
-<img width="485" alt="Captura de Tela 2022-12-15 às 15 39 06" src="https://user-images.githubusercontent.com/107012585/207942576-253914c0-4411-42d0-b0aa-ee5882030741.png">
+<img width="400" alt="Captura de Tela 2022-12-15 às 15 39 06" src="https://user-images.githubusercontent.com/107012585/207942576-253914c0-4411-42d0-b0aa-ee5882030741.png">
